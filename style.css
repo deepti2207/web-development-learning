@@ -1,0 +1,22 @@
+/* Styling for the header using an ID */
+#main-header {
+    background-color: #4CAF50;
+    color: rgb(243, 230, 230);
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Styling for sections using a class */
+.content {
+    border: 2px solid #941313;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 20px;
+    
+}
+
+/* Styling for titles using a class */
+.title {
+    font-size: 1.5em;
+    color: #333;
+}
